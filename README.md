@@ -58,9 +58,9 @@ This project was developed as part of the **Database Management Systems** course
 
 ---
 
-## ERD
+## Entity Relationship Diagram (ERD)
 
-![ERD](docs/ERD.png)
+![ERD](docs/ERD.jpeg)
 
 ---
 
@@ -77,6 +77,7 @@ This project was developed as part of the **Database Management Systems** course
 ## Documentation
 
 - [Project Report](docs/report.pdf)
+- [Product Requirements Document (PRD)](docs/PRD.pdf)
 
 ---
 
